@@ -712,6 +712,21 @@
               <img src="assets/images/testimonials/user.jpg" alt="Edward Sean Maratas">
             </div>
             <div class="inner-content">
+              <h4 class="name">Zil Paddam</h4>
+              <p>"I would like to extend my heartfelt gratitude to WILSAFE Training Center Corp. for being a vital part of my professional journey in Occupational Safety and Health. From BOSH SO1 all the way to SO4, the training, support, and expertise I received from your dedicated team have been truly exceptional.
+Your commitment to quality education and safety training has equipped me with the knowledge and skills I need to grow in this field with confidence. Thank you for providing a learning environment that is both professional and inspiring.
+Looking forward to applying what I’ve learned and proudly carrying the values instilled by your institution.
+More power to WILSAFE Training Center!"</p>
+            </div>
+          </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="owl-carousel owl-theme">
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/testimonials/user.jpg" alt="Edward Sean Maratas">
+            </div>
+            <div class="inner-content">
               <h4 class="name">Edward Sean Maratas</h4>
               <p>"Sir Wil, salamat sa turo niyo. Naging interesting ang BOSH SO2 training and interactive. Dahil na rin sa expertise niyo, thank you for sharing your knowledge. Dagdag learnings namin ito. Thank you Sir Wil!"</p>
             </div>
